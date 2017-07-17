@@ -1,0 +1,1 @@
+F:\small\3_2\现代操作系统\week4_me\10. Application Lifecycle\Demos\SuspendTermination\Begin\LifecycleDemo\NavigationAndLifecycleDemo.csproj;x86
