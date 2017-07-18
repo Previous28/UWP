@@ -1,0 +1,12 @@
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\App.g.i.cs
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\App.g.cs
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\App.xaml
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\Styles\PivotTabsStyle.xaml
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\Styles\StarRadioButtonStyle.xaml
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\Views\MainPage.xaml
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\Views\ToDoEditorContentDialog.xaml
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\App.xbf
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\Styles\PivotTabsStyle.xbf
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\Styles\StarRadioButtonStyle.xbf
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\Views\MainPage.xbf
+G:\SYSU\2017MAD\2017week6课件\z102. File Management\Demos\TODOFilePickerSample\TODOFilePickerSample\obj\ARM\Debug\Views\ToDoEditorContentDialog.xbf
