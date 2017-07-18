@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<tile>
+  <visual>
+
+    <binding template="TileSmall">
+      <text id ="1">Small</text>
+      <text id ="2">Test Field</text>
+    </binding>
+  
+    <binding template="TileMedium">
+      <text id ="1">Medium</text>
+      <text id ="2">Test Field</text>
+    </binding>
+  
+    <binding template="TileWide">
+      <text id ="1">Wide</text>
+      <text id ="2">Test Field</text>
+    </binding>
+  
+    <binding template="TileLarge">
+      <text id ="1">Large</text>
+      <text id ="2">Test Field</text>
+    </binding>
+  
+  </visual>
+</tile>
